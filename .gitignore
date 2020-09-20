@@ -1,3 +1,5 @@
+.DS_Store
+.gitignore
 .vscode/*
 go.mod
 go.sum
