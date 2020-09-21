@@ -7,7 +7,7 @@ import (
 )
 
 func init() {
-	migrateAll()
+	// migrateAll()
 }
 
 func migrateAll() {
